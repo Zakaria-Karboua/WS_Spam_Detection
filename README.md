@@ -87,6 +87,3 @@ spam-detection-pytorch/
 └── results/             generated tables and figures
 ```
 
-## License
-
-MIT
