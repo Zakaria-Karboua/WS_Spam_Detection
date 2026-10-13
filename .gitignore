@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+*.pt
+# the Kaggle CSV is not redistributed here (see data/README.md)
+data/*.csv
